@@ -16,22 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-I'll show you how to create and set up your profile README with the exact timing details you provided. First, let me explain how to create it:
-
-1. Create a new repository named exactly `nuhuyahuza` (matching your username)
-2. Make it public
-3. Initialize it with a README.md file
-
-Here's the content to copy (updated with your current timestamp):
-
 ```markdown
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div align="right">
-Last updated: 2025-01-28 21:40:25 UTC
-</div>
-
-I'm Nuhu Yahaya Huza, a Software Developer with over 6 years of experience since 2018. I'm passionate about building scalable solutions and contributing to the tech community.
+I'm Nuhu Yahuza ⚡, a Software Developer with over 6 years of experience since 2018. I'm passionate about building scalable solutions and contributing to the tech community.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nuhuyahuza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -42,7 +29,7 @@ I'm Nuhu Yahaya Huza, a Software Developer with over 6 years of experience since
 ```python
 class AboutMe:
     def __init__(self):
-        self.name = "Nuhu Yahaya Huza"
+        self.name = "Nuhu YahUZA"
         self.role = "Software Developer"
         self.experience = "6+ years"
         self.location = "Global"
@@ -84,7 +71,7 @@ const technicalSkills = {
     languages: ["JavaScript", "Python", "PHP", "SQL"],
     frontend: {
         core: ["HTML5", "CSS3", "JavaScript (ES6+)"],
-        frameworks: ["React.js", "Vue.js"],
+        frameworks: ["React.js", "Next.js"],
         styling: ["Bootstrap", "Tailwind CSS", "SASS"]
     },
     backend: {
